@@ -1,0 +1,653 @@
+image	sent1	sent2	Best reference (Semantically close)	Reference-2 (Completely irrelevant)
+000000318723.jpg	The backpack contains the cat.	The cat is in the backpack.	The cat is outside the backpack.	The oven contains the pizza
+000000318723.jpg	The backpack contains the cat.	The cat is within the backpack.	The cat and backpack are far apart.	The oven contains the pizza
+000000537372.jpg	The cat is on the bed.	The bed is beneath the cat.	The cat is under the bed.	The pizza is on the oven.
+000000279829.jpg	The cat is in the sink.	The sink is beneath the cat.	The cat is outside the sink.	The cow is in the truck.
+000000279829.jpg	The cat is in the sink.	The sink contains the cat.	The cat is outside the sink.	The truck contains the cow.
+000000180479.jpg	The oven is below the pizza.	The pizza is on top of the oven.	The pizza is in the oven.	The book is on top of the table.
+000000215845.jpg	The dining table is close to the truck.	The truck is near the dining table.	The dining table is far away from the truck.	The tree is near the river.
+000000431060.jpg	The cat is on top of the toilet.	The toilet is beneath the cat.	The cat is not on top of the toilet.	The book is on top of the table.
+000000290201.jpg	The sandwich is under the umbrella.	The umbrella is over the sandwich.	The sandwich is not below the umbrella.	The boat is under the bridge.
+000000174496.jpg	The pizza is in the toaster.	The toaster contains the pizza.	The pizza is outside the toaster.	The book contains the relevant chapters.
+000000174496.jpg	The pizza is inside the toaster.	The pizza is within the toaster.	The pizza is outside the toaster.	The book contains the relevant chapters.
+000000539406.jpg	The cow is on the truck.	The truck contains the cow.	The cow is outside the truck.	The book contains the relevant chapters.
+000000539406.jpg	The cow is inside the truck.	The truck contains the cow.	The cow is outside the truck.	The book contains the relevant chapters.
+000000539406.jpg	The cow is in the truck.	The truck contains the cow.	The cow is outside the truck.	The book contains the relevant chapters.
+000000356648.jpg	The bench is at the right side of the refrigerator.	The refrigerator is at the left side of the bench.	The bench is at the left side of the refrigerator.	The table is on the right side of the bed.
+000000001536.jpg	The oven is below the pizza.	The pizza is on the oven.	The pizza is in the oven.	The car is out of the garage.
+000000155604.jpg	The oven contains the pizza.	The pizza is in the oven.	The pizza is outside the over.	The toys are in the box.
+000000253004.jpg	The laptop is under the book	The book is on top of the laptop.	The laptop is inside the book.	The boat is under the bridge.
+000000253004.jpg	The laptop is under the book	The book is on the laptop.	The laptop is on the book.	The boat is under the bridge.
+000000046306.jpg	The bed consists of the car.	The car is part of the bed.	The bed is in the car.	The installation is part of the museum.
+000000153259.jpg	The cake is on the teddy bear.	The teddy bear is below the cake.	The cake is beneath the teddy bear.	The phone is on the dashboard.
+000000504158.jpg	The bear is next to the cat.	The cat is next to the bear.	The bear is far from the cat.	The banana is next to mango.
+000000357537.jpg	The couch is on top of the truck.	The truck is beneath the couch.	The couch is outside the truck.	The climber is on top of the mountain.
+000000357537.jpg	The couch is on the truck.	The truck is beneath the couch.	The couch is outside the truck.	The cow is on the truck.
+000000364722.jpg	The dining table is touching the teddy bear.	The teddy bear is touching the dining table.	The dining table is far from the teddy bear.	The dog is touching the cat.
+000000107881.jpg	The dog is at the left side of the motorcycle.	The motorcycle is at the right side of the dog.	The dog is at the right side of the motorcycle.	The hot dog is at the left side of the bottle.
+000000107881.jpg	The dog is beside the motorcycle.	The motorcycle is near the dog.	The dog is far from the motorcycle.	The tree is by the river.
+000000240653.jpg	The bench is beneath the dog.	The dog is on top of the bench.	The bench is above the dog.	The dog is touching the cat.
+000000238217.jpg	The bicycle is below the pizza.	The pizza is above the bicycle.	The bycycle is far from the pizza.	The puppy is below the tree.
+000000313520.jpg	The chair is above the dog.	The dog is under the chair.	The dog is away from the chair.	The boat is under the bridge.
+000000313520.jpg	The chair is over the dog.	The dog is under the chair.	The chair is under the dog.	The boat is under the bridge.
+000000307172.jpg	The person is touching the pizza.	The pizza is touching the person.	The person is away from the pizza.	The bench is touching the dog.
+000000033372.jpg	The cake is beneath the teddy bear.	The teddy bear is on top of the cake.	The teddy bear is not on the cake.	The small boy is below the big boy.
+000000033372.jpg	The cake is below the teddy bear.	The teddy bear is on the cake.	The teddy bear is below the cake.	The leaves are part of the tree.
+000000033372.jpg	The cake is under the teddy bear.	The teddy bear is on the cake.	The cake is above the teddy bear.	The small boy is below the big boy.
+000000168317.jpg	The dog is in front of the motorcycle.	The motorcycle is behind the dog.	The dog is on the motorcycle.	The small boy is below the big boy.
+000000505286.jpg	The cat is on the keyboard.	The keyboard is beneath the cat.	The cat is away from the keyboard.	The ground floor is beneath the first floor.
+000000159504.jpg	The cow is facing the person.	The person is facing the cow.	The cow is at the back of the person.	The flame is touching the pan.
+000000305923.jpg	The bicycle is behind the teddy bear.	The teddy bear is in front of the bicycle.	The bicycle is under the teddy bear.	The tree is by the river.
+000000305923.jpg	The bicycle is behind the teddy bear.	The teddy bear is against the bicycle.	The bicycle is under the teddy bear.	The blackboard is behind the teacher.
+000000384826.jpg	The banana is touching the sandwich.	The sandwich is touching the banana.	The banana is away from the sandwich.	The flame is touching the pan.
+000000384826.jpg	The banana is on the sandwich.	The sandwich is below the banana.	The banana is far from the sandwich.	The flame is touching the pan.
+000000384826.jpg	The banana is beside the sandwich.	The sandwich is beside the banana.	The banana is inside the sandwich.	The birds are flying above the barn.
+000000246831.jpg	The fire hydrant is far from the teddy bear.	The teddy bear and the fire hydrant are far apart.	The teddy bear is touching the fire hydrant.	The garbade can is near the entrance.
+000000114710.jpg	The person is in front of the sheep.	The sheep is behind the person.	The sheep is ahead of the person.	The projector is behind the audience.
+000000114710.jpg	The person is in right of the sheep.	The sheep is left of the person.	The sheep is in right of the person.	The cupboard is left of the mirror.
+000000535013.jpg	The banana is at the left side of the donut.	The donut is right of the banana.	The banana is at the right side of the donut.	The tree on the right side of the car.
+000000496636.jpg	The person is at the right side of the sheep.	The sheep is at the left side of the person.	The sheep is at the right side of the person.	The flame is touching the pan.
+000000496636.jpg	The person is touching the sheep.	The sheep is alongside the person.	The person is away from the sheep.	The grass is touching the elephant.
+000000363793.jpg	The sheep is on the grass.	The grass is below the sheep..	The sheep is away from the grass.	The leaves are part of the tree.
+000000537382.jpg	The banana is beneath the sandwich.	The sandwich is on the banana.	The banana is far from sandwich.	The oven is beneath the pizza.
+000000537382.jpg	The banana is alongside the sandwich.	The sandwich is touching the banana.	The banana is far away from the sandwich.	The oven is beneath the pizza.
+000000537382.jpg	The banana is beneath the sandwich.	The sandwich is on top of the banana.	The banana is above the sandwich.	The oven is beneath the pizza.
+000000522288.jpg	The dog is facing the wine glass.	The wine glass is facing the dog.	The dog is not facing the wine glass.	The dog is facing away from the laptop.
+000000195509.jpg	The person is touching the pizza.	The pizza is touching the person.	The pizza is away from the person.	The chef is touching the broccoli.
+000000292232.jpg	The cat is inside the suitcase.	The suitcase contains the cat.	The cat is outside the suitcase.	The backpack is inside the suitcase.
+000000487225.jpg	The bowl is right of the toaster.	The toaster is left of the bowl.	The bowl is left of the toaster.	The cow is near the road.
+000000015953.jpg	The apple is left of the cake.	The cake is at the right side of the apple.	The cake and apple are far apart.	The person is left of the post box.
+000000015953.jpg	The apple is behind the cake.	The cake is in front of the apple.	The cake and apple are far apart.	The oven is behind the pan.
+000000306581.jpg	The bus is behind the cow.	The cow is ahead of the bus.	The bus is in front of the cow.	The oven is behind the pan.
+000000306581.jpg	The bus is away from the cow.	The cow and the bus are far away.	The bus is close to the cow.	The ball is away from the elephant.
+000000306581.jpg	The bus is far away from the cow.	The cow and the bus are far apart.	The bus is near the cow.	The car is ahead of the bicycle.
+000000490959.jpg	The bicycle is far away from the bus.	The bus is far away from the bicycle.	The bicycle is touching the bus.	The sun is far away from earth.
+000000471064.jpg	The cat is on top of the suitcase.	The suitcase is below the cat.	The cat is within the suitcase.	The small boy is below the big boy.
+000000212868.jpg	The backpack is on the cat.	The cat is in contact with the backpack.	The backpack is away from the cat.	The cargo is on the plane.
+000000212868.jpg	The backpack is on the cat.	The backpack is attached to the cat.	The backpack is not attached to the cat.	The plane is flying on top of the mountain.
+000000577405.jpg	The apple is under the cake.	The cake is on the apple.	The apple is on the cake.	The bench is under the bird.
+000000023218.jpg	The donut is in contact with the person.	The person is touching the donut.	The person is not touching the cake.	The car is front of the parking.
+000000060126.jpg	The banana is on top of the cake.	The cake is below the banana.	The cake is not below the banana.	The plane is flying on top of the mountain.
+000000060126.jpg	The banana is on the cake.	The cake is under the banana.	The cake is above the banana.	The boat is under the bridge.
+000000060126.jpg	The banana is on top of the cake.	The cake is under the banana.	The banana is below the cake.	The boat is under the bridge.
+000000477061.jpg	The bed is inside the car.	The car contains the bed.	The bed is outside the car.	The seed is inside the fruit.
+000000222987.jpg	The banana is on the cake.	The cake is beneath the banana.	The cake is not touching the banana.	The plane is flying on top of the mountain.
+000000151497.jpg	The cat is in front of the backpack.	The backpack is behind the cat.	The cat is behind the backpack.	The car is in front of the parking.
+000000151497.jpg	The backpack is at the right side of the cat.	The cat is at left of the backpack.	The backpack is at the left side of the cat.	The car is front of the parking.
+000000326774.jpg	The cow is under the person.	The person is on the cow.	The cow is far from the person.	The umbrella is under the sun.
+000000103582.jpg	The bed is beneath the suitcase.	The suitcase is on the bed.	The bed is away from the suitcase.	The plane is flying on top of the mountain.
+000000103582.jpg	The bed is under the suitcase.	The suitcase is on top of the bed.	The bed is above the suitcase.	The plane is flying on top of the mountain.
+000000240718.jpg	The oven contains the pizza.	The pizza is in the oven.	The pizza is outside the oven.	The plane contains the passengers.
+000000524881.jpg	The bird is top of the bowl.	The bowl is below the bird.	The bowl is on top the bird.	The small boy is below the big boy.
+000000012698.jpg	The bowl is under the sandwich.	The sandwich is above the bowl.	The bowl is above the sandwich.	The boat is under the bridge.
+000000012698.jpg	The bowl is under the sandwich.	The sandwich is over the bowl.	The bowl is over the sandwich.	The boat is under the bridge.
+000000511148.jpg	The cat is inside the suitcase.	The suitcase contains the cat.	The cat is not in the the suitcase.	The car is inside the garage.
+000000185777.jpg	The cake is in front of the oven.	The oven is behind the cake.	The cake is inside the oven.	The car is parked in front of the fire hydrant.
+000000566596.jpg	The person is on top of the teddy bear.	The teddy bear is under the person.	The teddy bear is on the person.	The boat is under the bridge.
+000000038668.jpg	The banana is under the orange.	The orange is on the banana.	The orange is below the banana.	The boat is under the bridge.
+000000542307.jpg	The airplane is far away from the bus.	The bus is far away from the airplane.	The airplane is close to the bus.	The sun is far away from earth.
+000000043894.jpg	The bed is touching the cup.	The cup is in contact with the bed.	The bed is far from the cup.	The cap is on top of the bag.
+000000355159.jpg	The bus is behind the dining table.	The dining table is in front of the bus.	The bus is in front of the dining table.	The cow is behind the truck.
+000000065836.jpg	The banana is above the bird.	The bird is below the banana.	The banana is below the bird.	The crane is away from the building.
+000000065836.jpg	The banana is above the bird.	The bird is lower than the banana.	The banana is below the bird.	The crane is above the building.
+000000082512.jpg	The potted plant is close to the teddy bear.	The teddy bear is near the potted plant.	The potted plant is far from the teddy bear.	The tv is in front of the teddy bear.
+000000378313.jpg	The cow is left of the dining table.	The dining table on the right side of the cow.	The dining table is left of the cow.	The donut is left of the chocolate.
+000000394157.jpg	The cat is inside the clock.	The clock consists of the cat.	The cat is not inside the clock.	The banana is on the basket.
+000000394157.jpg	The cat is part of the clock.	The clock consists of the cat.	The cat is away from the clock.	The teddy bear is part of the book.
+000000449770.jpg	The backpack is next to the cat.	The cat is beside the backpack.	The cat is away from the backpack.	The keyboard is next to the cat.
+000000449770.jpg	The backpack is next to the cat.	The cat is by the backpack.	The cat is away from the backpack.	The keyboard is next to the cat.
+000000449770.jpg	The cat is next to the backpack.	The backpack is close to the cat.	The backpack is far from the cat.	The keyboard is next to the cat.
+000000106657.jpg	The cake is in front of the teddy bear.	The teddy bear is behind the cake.	The teddy bear is in front of the cake.	The boy is in front of the car.
+000000036324.jpg	The oven contains the pizza.	The pizza is inside the oven.	The pizza is outside the oven.	The gift is inside the box.
+000000016109.jpg	The person is beside the sheep.	The sheep is adjacent to the person.	The person is on the sheep.	The ship is beside the submarine.
+000000531049.jpg	The laptop is beside the train.	The train is near the laptop.	The laptop is inside the train.	The dog is near the cat.
+000000531049.jpg	The laptop is beside the train.	The train is next to the laptop.	The laptop is in the train.	The coffee is beside the cookies.
+000000570783.jpg	The bicycle is beside the teddy bear.	The teddy bear is beside the bicycle.	The teddy bear is riding the bike.	The animals are beside the bus.
+000000159403.jpg	The bus is behind the dining table.	The dining table is opposite to the bus.	The bus is in front of the dining table.	The driver is driving the bus.
+000000249644.jpg	The carrot is in front of the cat.	The cat is behind the carrot.	The cat is carrying the carrot.	The girl is carrying the carrot.
+000000332420.jpg	The cat is in the suitcase.	The suitcase is beneath the cat.	The cat is pushing the suitcase.	The cat is in the car.
+000000332420.jpg	The cat is inside the suitcase.	The suitcase contains the cat.	The cat is pulling the suitcase.	The dog is inside the suitcase.
+000000378214.jpg	The cow is in front of the sheep.	The sheep is behind the cow.	The sheep is on the cow.	The cow is chasing the cat.
+000000439364.jpg	The cat is into the toilet.	The toilet is surrounding the cat.		
+000000099024.jpg	The kite is touching the person.	The person is touching the kite.	The kite is very far from the person.	The pizza is in front of the person.
+000000286660.jpg	The person is holding the teddy bear.	The teddy bear is touching the person.	The teddy bear is very far from the person.	The person is standing on the truck.
+000000514600.jpg	The bird is on the orange.	The orange is beneath the bird.	The orange is above the bird	The bird is on the umbrella.
+000000064423.jpg	The cat is in the suitcase.	The suitcase contains the cat.	The cat is far from the suitcase.	The elephant is in the truck.
+000000086229.jpg	The cat is inside the suitcase.	The suitcase is surrounding the cat.	The cat is outside the suitcase.	The cat is chasing the rat.
+000000042042.jpg	The dining table is in front of the person.	The person is behind the dining table.	The dining table is behind the person.	The person is at the back of the bus.
+000000341707.jpg	The oven contains the pizza.	The pizza is inside the oven.	The pizza is not in the oven.	The cake is outside the fridge.
+000000341707.jpg	The oven contains the pizza.	The pizza is in the oven.	The piza is far from the oven.	The man is eating the pizza.
+000000200775.jpg	The person is touching the sandwich.	The sandwich is touching the person.	The person is far from the sandwich.	The cat is touching the dog.
+000000335712.jpg	The person is standing in front of the teddy bear.	The teddy bear is behind the standing person.	The person is standing behind the teddy bear.	The truck is in front of the car.
+000000451400.jpg	The dining table is underneath the teddy bear.	The teddy bear is on top of the dining table.	The teddy bear is beneath the dining table.	The dining table is burning.
+000000257629.jpg	The bench is below the laptop.	The laptop is on the bench.	The latop is away from the table.	The cat is on the carpet.
+000000257629.jpg	The bench is beneath the laptop.	The laptop is on top of the bench.	The laptop and bench are far apart.	The carpet is beneath the cat.
+000000163738.jpg	The bed is below the cat.	The cat is above the bed.	The cat and bed are side by side.	The pillow is above the couch.
+000000230224.jpg	The car is above the cat.	The cat is under the car.	The cat is on top of the car.	A person is driving a bus.
+000000218142.jpg	The cat is on the top of the sink.	The sink is beneath the cat.	The sink is on the top of the cat.	The dog is on the top of the car.
+000000101194.jpg	The person is touching the pizza.	The pizza is in contact with the person.	The person is afar from the pizza.	The person is riding a bike.
+000000267770.jpg	The broccoli is in front of the sandwich.	The sandwich is next to the broccoli.	The broccoli is inside the sandwich. 	The person is eating the sandwich.
+000000092346.jpg	The cake is on the top of the oven.	The oven is beneath the cake.	The cake is beneath the oven.	A person is holding the cake.
+000000092346.jpg	The oven is below the cake.	The cake is on the top of the oven.	The cake is beneath the oven.	A person is opening the oven.
+000000560392.jpg	The cat is in front of the suitcase.	The suitcase is behind the cat.	The cat is behind the suitcase.	The suitcase is under the dining table.
+000000295443.jpg	The cat is on top of the microwave.	The microwave is under the cat.	The cat is below the microwave.	The dog is running behind the cat.
+000000295443.jpg	The cat is on the microwave.	The microwave is under the cat.	The microwave is on the top of the cat.	The person is using the microwave.
+000000418409.jpg	The couch is beneath the person.	The person is on the couch.	A person is underneath the couch.	The couch is nside the train.
+000000207475.jpg	The dining table is in front of the person.	The person is behind the dining table.	The person is under the dining table.	The person is pushing the car.
+000000003093.jpg	The banana is in the bowl.	The bowl contains the banana.	The bowl is away from the banana.	A person is eating the banana.
+000000386694.jpg	The boat is around the dining table.	The dining table is enclosed by the boat.	The dining table is outside the boat.	The boat is inside in water.
+000000386694.jpg	The boat contains the dining table.	The dining table is enclosed by the boat.	The dining table is far from the boat.	The boat is drowning in the ocean.
+000000067373.jpg	The bus is far away from the donut.	The donut is far away from the bus.	The donut is inside the bus.	The boy is throwing the donut.
+000000206255.jpg	The bed is beneath the cat.	The cat is on the bed.	The cat is under the bed.	The cat is holding the rat.
+000000206255.jpg	The bed is under the cat.	The cat is on the bed.	The cat is beneath the bed.	The elephant is pulling the bed.
+000000189559.jpg	The cow is inside the truck.	The truck contains the cow.	The cow is on the top of the truck.	The cat is inside the box.
+000000410123.jpg	The truck is across from the tv.	The tv is across from the truck.	The truck inside the tv.	The person is across from the plane.
+000000239801.jpg	The banana is at the right side of the cake.	The cake is at the left side of the banana.	The banana is on the top of the cake.	The monkey is eating the banana.
+000000268394.jpg	The cake is beside the truck.	The truck is beside the cake.	The cake is inside the truck.	The person is driving the truck.
+000000472375.jpg	The dog is in front of the motorcycle.	The motorcycle is behind the dog.	The dog is on top of the motorcycle.	The dog is running on the plane.
+000000391632.jpg	The cat is on top of the suitcase.	The suitcase is beneath the cat.	The cat is inside the suitcase.	The book is on top of the laptop.
+000000192212.jpg	The bed is under the suitcase.	The suitcase is touching the bed.	The suitcase is underneath the bed.	The person is carrying the suitcase.
+000000228857.jpg	The dog is at the right side of the laptop.	The laptop is at the left side of the dog.	The laptop is at the right side of the dog.	The laptop is inside the backpack.
+000000040931.jpg	The car is over the cat.	The cat is under the car.	The cat is on top of the car.	The person is riding the car.
+000000496606.jpg	The bench is under the dog.	The dog is on top of the bench.	The dog is underneath the bench.	The person is carrying the dog.
+000000050403.jpg	The person is behind the teddy bear.	The teddy bear is in front of the person.	The teddy bear is behind the person.	The teddy bear is swimming in the water.
+000000151862.jpg	The bottle is at the right side of the teddy bear.	The teddy bear is beside the bottle.	The bottle is at the left side of the teddy bear.	The bottle is floating on the water.
+000000151862.jpg	The bottle is adjacent to the teddy bear.	The teddy bear is beside the bottle.	The teddy bear is far away from the bottle.	The teddy bear is floating on the water.
+000000151862.jpg	The bottle is touching the teddy bear.	The teddy bear is touching the bottle.	The bottle is far away from the teddy bear.	The person is drinking from the bottle.
+000000192236.jpg	The bottle contains the sheep.	The sheep is inside the bottle.	The sheep is outside the bottle.	The house is inside the village.
+000000338289.jpg	The oven contains the pizza.	The pizza is inside the oven.	The pizza is away from the oven. 	The bottle contains the water.
+000000180383.jpg	The cow contains the tv.	The tv is in the cow.	The cow is far from the tv.	The car contains the fridge.
+000000180383.jpg	The cow contains the tv.	The tv is in the cow.	The tv is far from the cow.	The fridge is in the car.
+000000483154.jpg	The banana is touching the person.	The person is touching the banana.	The person is not touching the banana.	The person is running on the road.
+000000426714.jpg	The cat is on top of the microwave.	The microwave is under the cat.	The cat is beneath the microwave.	The dog is on top of the bed.
+000000273607.jpg	The backpack is under the cat.	The cat is on top of the backpack.	The cat is inside the backpack.	The bed is under the dog.
+000000157159.jpg	The dining table is below the teddy bear.	The teddy bear is on top of the dining table.	The teddy bear is below the dining table.	The person is on the table.
+000000061389.jpg	The car is under the cat.	The cat is on top of the car.	The cat is underneath the car.	The car is inside the ship.
+000000533686.jpg	The cat is inside the suitcase.	The suitcase contains the cat.	The cat is away from the suitcase.	The dog is inside the house.
+000000403231.jpg	The book is beside the cat.	The cat is beside the book.	The book is away from the cat.	The person is beside the table.
+000000473779.jpg	The teddy bear is to the right of the umbrella.	The umbrella is to the left of the teddy bear.	The teddy bear is to the left of the umbrella.	The person is to the right of the bus.
+000000017312.jpg	The sandwich is near the toaster.	The toaster is near the sandwich.	The toaster is not near the sandwich.	The dog is near the car.
+000000017312.jpg	The sandwich is in front of the toaster.	The toaster is behind the sandwich.	The sandwich is behind the toaster.	The person is behind the bed.
+000000302399.jpg	The bowl contains the donut.	The donut is inside the bowl.	The donut is not inside the bowl.	The box contains the key.
+000000419117.jpg	The couch is beneath the sandwich.	The sandwich is on the top of the couch.	The sandwich is beneath the couch.	The dog is beneath the car.
+000000281660.jpg	The chair is inside the train.	The train contains the chair.	The chair is outside the train.	The person is inside the cabin.
+000000281660.jpg	The chair is against the train.	The train contains the chair.		
+000000225565.jpg	The oven is below the pizza.	The pizza is on top of the oven.	The pizza is inside the oven.	The crow is on top of the tree.
+000000203497.jpg	The person is touching the teddy bear.	The teddy bear is touching the person.	The teddy bear is not touching the person.	The pizza is touching the oven.
+000000558388.jpg	The cake is next to the person.	The person is next to the cake.	The person is not next to the cake.	The school is next to the park.
+000000357859.jpg	The bear is touching the car.	The car is touching the bear.	The bear is away from the car.	The person is touching the bottle.
+000000162355.jpg	The bicycle is far from the cow.	The cow is far from the bicycle.	The cow is on the bicycle.	The rat far from the pizza.
+000000162355.jpg	The bus is past the cow.	The cow is past the bus.	The cow is inside the bus.	The school is past the road.
+000000162355.jpg	The bus is facing away from the cow.	The cow is away from the bus.	The bus contains the cow.	The table is away from the bed.
+000000046686.jpg	The fire hydrant is touching the tv.	The tv is touching the fire hydrant.	The tv is far away from the fire hydrant.	The person is touching the bike.
+000000129007.jpg	The cow is far away from the person.	The person is far away from the cow.	The pesron is on the cow.	The park is far away from the house.
+000000061382.jpg	The banana is in front of the broccoli.	The broccoli is behind the banana.	The broccoli is in front of the banana.	The bus is in front of the car.
+000000032538.jpg	The cow is touching the person.	The person is touching the cow.	The cow is not touching the person.	The kid is touching the oven.
+000000434275.jpg	The dog is at the right side of the laptop.	The laptop is to the left of the dog.	The dog is behind the laptop.	The banana is at the right side of the pizza.
+000000434275.jpg	The dog is at the right side of the laptop.	The laptop is at the left side of the dog.	The dog is at the left side of the laptop.	The banana is at the left side of the pizza.
+000000148176.jpg	The cake is at the right side of the person.	The person is at the left side of the cake.	The person is at the right side of the cake.	The bus is behind the car..
+000000497591.jpg	The bench is in front of the refrigerator.	The refrigerator is behind the bench.	The bench is behind the refrigerator.	The sheep is behind the truck.
+000000281634.jpg	The sheep is next to the truck.	The truck is next to the sheep.	The sheep is far away from the truck.	The kid is next to the cake.
+000000243204.jpg	The pan is under the sandwich.	The sandwich is on the pan.	The sandwich is beside the pan.	The dog is beside the cat.
+000000046905.jpg	The car is far away from the cat.	The cat is far away from the car.	The cat is inside the car.	The cow is far away from the person.
+000000080336.jpg	The cow is at the back of the person.	The person is ahead of the cow.	The cow is ahead of the person.	The dog is at the back of the car.
+000000080336.jpg	The cow is behind the person.	The person is ahead of the cow.	The person is at the back of the cow.	The car is ahead of the truck.
+000000270581.jpg	The person is behind the sheep.	The sheep is in front of the person.	The sheep is behind the person.	The cow is behind the tree.
+000000218687.jpg	The cake is beneath the teddy bear.	The teddy bear is on top of the cake.	The teddy bear is under the cake.	The table is beneath the book.
+000000218687.jpg	The cake is beneath the teddy bear.	The teddy bear is on the cake.	The teddy bear is under the cake.	The table is beneath the book.
+000000422469.jpg	The car is across from the parking meter.	The parking meter is across from the car.	The parking meter is inside the car.	The school is across from the park.
+000000422469.jpg	The car is across from the parking meter.	The parking meter is opposite to the car.	The car contains the parking meter.	The school is across from the park.
+000000283648.jpg	The truck contains the tv.	The tv is inside the truck.	The tv is outside the truck.	The man is inside the car
+000000024081.jpg	The person is facing away from the toaster.	The toaster is behind the person.	The person is facing the toaster.	The dog is facing away from the cat.
+000000216664.jpg	The cat is on top of the toilet.	The toilet is below the cat.	The cat is behind the toilet.	The person is top of the table.
+000000286471.jpg	The cat is in the sink.	The sink contains the cat.	The cat is outside the sink.	The person is in the car.
+000000144746.jpg	The backpack contains the cat.	The cat is inside the backpack.	The cat is outside the backpack.	The bottle contains the water.
+000000137265.jpg	The bird is over the umbrella.	The umbrella is under the bird.	The bird is under the umbrella.	The dog is under the bed.
+000000355736.jpg	The cake has as a part the person.	The person is on top of the cake.		
+000000251716.jpg	The dog is on top of the motorcycle.	The motorcycle is under the dog.	The dog is far away from the motorcycle.	The bird is on top of the cycle.
+000000061315.jpg	The dining table is close to the person.	The person is close to the dining table.	The dining table is far away from the person.	The oven is close to the table.
+000000471407.jpg	The cat is on the sink.	The sink is below the cat.	The cat is below the sink.	The dog is above the table.
+000000047566.jpg	The person is touching the sheep.	The sheep is touching the person.	The sheep is not touching the person.	The bird is touching the wood.
+000000047566.jpg	The person is above the sheep.	The sheep is beneath the person.	The sheep is above the person.	The cat is above the sink.
+000000059034.jpg	The boat contains the dining table.	The dining table is on the boat.	The dining table is outside the boat.	The goat is on the hill.
+000000488743.jpg	The orange is touching the person.	The person is holding the orange.	The orange is not touching the person.	The scissors is touching the person.
+000000211449.jpg	The dog is on the motorcycle.	The motorcycle is under the dog.	The motorcycle is in front of the dog.	The cat is on the surfboard.
+000000114907.jpg	The cow is inside the truck.	The truck contains the cow.	The cow is far away from the truck.	The water is inside the bottle.
+000000171330.jpg	The oven contains the pizza.	The pizza is inside the oven.	The pizza is outside the oven.	The tv is inside the truck.
+000000171330.jpg	The oven contains the pizza.	The pizza is inside the oven.	The pizza is outside the oven.	The elephant is inside the truck.
+000000372029.jpg	The dog is on the surfboard.	The surfboard is under the dog.	The dog is far from the surfboard.	The cat is on the bed.
+000000141441.jpg	The cat is inside the suitcase.	The suitcase is surrounding the cat.	The cat is outside the suitcase.	The pizza is in the oven.
+000000141441.jpg	The cat is inside the suitcase.	The cat is within the suitcase.	The cat is outside the suitcase.	The elephant is inside the truck.
+000000012102.jpg	The cat is in the toilet.	The toilet is surrounding the cat.	The cat is outside the toilet.	The tv is in the boat.
+000000012102.jpg	The cat is toward the toilet.	The toilet is surrounding the cat.		
+000000012102.jpg	The cat is into the toilet.	The toilet is surrounding the cat.	The cat is far from the toilet.	The wall is surrounding the elephant.
+000000112363.jpg	The boat is to the left of the potted plant.	The potted plant is to the right the boat.	The potted plant is to the left the boat.	The book is to the left of the laptop.
+000000393542.jpg	The bicycle is under the teddy bear.	The teddy bear is on the bicycle.	The bicycle is beside the teddy bear.	The cat is on the keyboard.
+000000393542.jpg	The bicycle is beneath the teddy bear.	The teddy bear is on the bicycle.	The teddy bear is beneath the bicycle.	The cat is on top of the keyboard.
+000000393542.jpg	The bicycle is below the teddy bear.	The teddy bear is on the bicycle.	The teddy bear is under the bicycle.	The cat is on the keyboard.
+000000355857.jpg	The bus is behind the teddy bear.	The teddy bear is in front of the bus.	The teddy bear is behind the bus.	The cow is behind the truck.
+000000213579.jpg	The cake is at the left side of the person.	The person is at the right side of the cake.	The cake is at the right side of the person.	The kid is at the right side of the table.
+000000093031.jpg	The banana is on top of the cake.	The cake is under the banana.	The banana is under the cake.	The cat is on top of the piano.
+000000093031.jpg	The banana is part of the cake.	The cake is touching the banana.		
+000000093031.jpg	The banana is part of the cake.	The cake consists of the banana.	The banana is away from the cake	The wheel is part of the car.
+000000174423.jpg	The bird is on the umbrella.	The umbrella is under the bird.	The umbrella is on the bird.	The banana is on the cake.
+000000428329.jpg	The couch is below the umbrella.	The umbrella is above the couch.	The couch is above the umbrella.	The car is above the cat.
+000000235069.jpg	The boat is on top of the truck.	The truck is under the boat.	The truck is on top of the boat.	The bottle is on top of the table.
+000000468951.jpg	The cat is in the suitcase.	The suitcase contains the cat.	The cat is away from the suitcase.	The banana is in the bag.
+000000375086.jpg	The bowl contains the sandwich.	The sandwich is in the bowl.	The bowl is far from the sandwich.	The pizza is in the oven.
+000000238187.jpg	The banana is on top of the dining table.	The dining table is below the banana.	The dining table is above the banana.	The book is on top of the file.
+000000137514.jpg	The cat is in front of the microwave.	The microwave is behind the cat.	The microwave is in front of the cat.	The bicycle is behind the truck.
+000000137514.jpg	The cat is touching the microwave.	The microwave is touching the cat.	The cat is not touching the microwave.	The suitcase is touching the wall.
+000000469618.jpg	The boat is away from the dining table.	The dining table is away from the boat.	The boat is touching the dining table.	The cat is away from the dog.
+000000469618.jpg	The boat is behind the dining table.	The dining table is in front of the boat.	The boat is in front of the dining table.	The bicycle is behind the bus.
+000000169660.jpg	The cake is in the oven.	The oven is surrounding the cake.	The cake is outside the oven.	The person is outside the house.
+000000169660.jpg	The cake is in the oven.	The oven contains the cake.	The oven is away from the cake.	The book is in the shelf.
+000000281920.jpg	The broccoli is at the right side of the pizza.	The pizza at the left side of the broccoli.	The pizza at the right side of the broccoli.	The pencil is at the right side of the notebook.
+000000281920.jpg	The broccoli is beside the pizza.	The pizza is next to the broccoli.	The broccoli is inside the pizza.	The bottle is beside the plate.
+000000116521.jpg	The oven contains the pizza.	The pizza is in the oven.	The pizza is away from the oven	The key is in the box.
+000000288106.jpg	The cat is beside the microwave.	The microwave is beside the cat.	The cat is far away from the microwave.	The cell phone is beside the tv.
+000000288106.jpg	The cat is beside the microwave.	The microwave is next to the cat.	The cat is far away from the microwave.	The cell phone is next to the laptop.
+000000288106.jpg	The cat is beside the microwave.	The microwave is at the side of the cat.	The cat is on the microwave.	The dog is beside the car.
+000000288106.jpg	The cat is at the side of the microwave.	The microwave is next to the cat.	The microwave is under the cat.	The cow is at the side of the person.
+000000288106.jpg	The cat is to the right side of the microwave.	The microwave is to the left side of the cat.	The microwave is under the cat.	The store is to the right side of the school.
+000000232341.jpg	The banana is touching the dining table.	The dining table is touching the banana.	The dining table is far from the banana.	The cat is touching the cake.
+000000026435.jpg	The broccoli is enclosed by the sandwich.	The sandwich is surrounding the broccoli.	The broccoli is away from the sandwich.	The gift is enclosed by the box.
+000000332943.jpg	The teddy bear is below the umbrella.	The umbrella is above the teddy bear.	The teddy bear is above the umbrella.	The cat is below the car.
+000000332943.jpg	The teddy bear is under the umbrella.	The umbrella is above the teddy bear.	The umbrella is below the teddy bear.	The book is under the cake.
+000000169111.jpg	The apple is on top of the bowl.	The bowl is below the apple		
+000000169111.jpg	The bowl is at the back of the truck.	The truck is behind the bowl.		
+000000169111.jpg	The bowl is far from the truck.	The truck is far from the bowl.		
+000000355462.jpg	The car is behind the parking meter.	The parking meter is in front of the car.	The parking meter is behind the car.	The dog is behind the cow.
+000000219492.jpg	The cat is inside the sink.	The sink contains the cat.	The cat is away from the sink.	The dog is inside the bus.
+000000125120.jpg	The boat contains the dining table.	The dining table is inside the boat.	The dining table is outside the boat.	The bag contains the laptop.
+000000486397.jpg	The person is connected to the sheep.	The sheep is connected to the person.	The sheep is not connected to the person.	The pipe is connected to the tap.
+000000486397.jpg	The person is attached to the sheep.	The sheep is connected to the person.	The sheep is not attached to the person.	The pipe is connected to the tap.
+000000439546.jpg	The couch is under the truck.	The truck is on the couch.	The couch is on the truck.	The cat is on the mat.
+000000118997.jpg	The red backpack is above the cat.	The cat is below the red backpack.	The cat is above the red backpack.	The car is above the dog.
+000000028333.jpg	The couch is on the truck.	The truck contains the couch.		
+000000392387.jpg	The dining table is touching the donut.	The donut is touching the dining table.	The dining table is not touching the donut.	The sheep is touching the person
+000000126810.jpg	The cat is in the toilet.	The toilet contains the cat.	The cat is away from the toilet.	The bottle conatins the liquid.
+000000580162.jpg	The cat is on the microwave.	The microwave is beneath the cat.	The microwave is above the cat.	The crow is on the car.
+000000580162.jpg	The cat is on top of the microwave.	The microwave is below the cat.	The cat is below the microwave.	The bird is on top of the car.
+000000278962.jpg	The oven is surrounding the pizza.	The pizza is inside the oven.	The pizza is outside the oven.	The cat is inside the backpack.
+000000045071.jpg	The cat is on top of the suitcase.	The suitcase is under the cat.	The suitcase is on top of the cat.	The bottle is on top of the table.
+000000395170.jpg	The black cat is inside the suitcase.	The suitcase contains the black cat.	The black cat is away from the suitcase.	The brown dog is inside the red car.
+000000501204.jpg	The cake is touching the truck.	The truck is touching the cake.	The cake is far from the truck.	The dog is touching the food.
+000000237922.jpg	The boat is beneath the dining table.	The dining table is on the boat.	The dining table is away from the boat.	The bicycle is beneath the teddy bear.
+000000237922.jpg	The boat is below the dining table.	The dining table is within the boat.	The dining table is below the boat.	The truck is below the car
+000000499656.jpg	The book is in front of the cat.	The cat is behind the book.	The book is behind the cat.	The person is behind the dining table.
+000000499656.jpg	The book is touching the cat.	The cat is touching the book.	The cat is away from the book.	The cow is touching the person.
+000000499656.jpg	The book is under the cat.	The cat is on the book.	The cat is under the book.	The pen is under the table.
+000000341985.jpg	The apple is in front of the banana.	The banana is behind the apple.	The apple is behind the banana.	The teddy bear is behind the person.
+000000180682.jpg	The person is behind the teddy bear.	The teddy bear is in front of the person.	The teddy bear is behind the person.	The banana is behind the apple.
+000000179968.jpg	The airplane is far from the tv.	The tv is behind the airplane.		
+000000456730.jpg	The laptop is in the train.	The train contains the laptop.	The laptop is outside the train.	The dog is in the house.
+000000550356.jpg	The cow is adjacent to the bus.	The bus is touching the cow.	The cow is not adjacent to the bus.	The person is adjacent to the wall.
+000000550356.jpg	The bus is adjacent to the cow.	The cow is touching the bus.	The bus is away from the cow.	The person is adjacent to the wall.
+000000550356.jpg	The bus is adjacent to the cow.	The cow is adjacent to the bus.	The cow is not adjacent to the bus.	The table is adjacent to the chair.
+000000550356.jpg	The cow is in front of the truck.	The truck is next to the cow.		
+000000350368.jpg	The apple is to the left of the teddy bear.	The teddy bear is to the right of the apple.	The apple is to the right of the teddy bear.	The box is to the left of the dining table.
+000000350368.jpg	The apple is touching the teddy bear.	The teddy bear is touching the apple.	The teddy bear is not touching the apple.	The sheep is touching the person
+000000349777.jpg	The car contains the cat.	The cat is inside the car.	The cat is outside the car.	The bottle is inside the backpack.
+000000270922.jpg	The oven is in front of the person.	The person is behind the oven.	The person is in front of the oven.	The cow is in front of the truck.
+000000525155.jpg	The person is beneath the sheep.	The sheep is on top of the person.	The person is on top of the sheep.	The monitor is on top of the table.
+000000525155.jpg	The person is touching the sheep.	The sheep is touching the person.	The person is not touching the sheep.	The apple is touching the banana.
+000000525155.jpg	The person is beneath the sheep.	The sheep is on top of the person.		
+000000528832.jpg	The bird is touching the couch.	The couch is touching the bird.	The bird is not touching the couch.	The person is touching the sheep.
+000000559490.jpg	The backpack is at the left of the cat.	The cat is at the right of the backpack.	The backpack is at the right of the cat.	The tree is at the right of the building.
+000000456143.jpg	The pizza is behind the sandwich.	The sandwich is in front of the pizza.	The sandwich is behind the pizza.	The cow is behind the person.
+000000456143.jpg	The pizza is behind the carrot slices.	The carrot slices are in front of the pizza.	The pizza is in front of the carrot slices.	The person is in front of the cow.
+000000380299.jpg	The potted plant is touching the teddy bear.	The teddy bear is touching the potted plant.	The potted plant is far away from the teddy bear.	The book is touching the table.
+000000069668.jpg	The oven is facing the person.	The person is facing the oven.	The person is not facing the oven.	The dog is facing the woman.
+000000261225.jpg	The cat is on top of the vase.	The vase is beneath the cat.	The cat is below the vase.	The dog is on top of the car.
+000000261225.jpg	The cat is inside the vase.	The vase contains the cat.	The cat is far away from the vase.	The fish is inside the water.
+000000261225.jpg	The cat is in the vase.	The vase contains the cat.	The cat is far away from the vase.	The water contains the fish.
+000000234929.jpg	The airplane is on the dining table.	The dining table is beneath the airplane.	The dining table is inside the airplane.	The ship is on the water.
+000000265315.jpg	The bicycle is under the teddy bear.	The teddy bear is on the bicycle.	The teddy bear is far apart from the bicycle.	The monkey is on the tree.
+000000061946.jpg	The sandwich is touching the teddy bear.	The teddy bear is touching the sandwich.	The teddy bear is far apart from the sandwich.	The kid is touching the oven.
+000000061946.jpg	The sandwich is in front of the teddy bear.	The teddy bear is behind the sandwich.	The teddy bear is in front of the sandwich.	The trcuk is in front of the bus.
+000000186484.jpg	The car is above the cat.	The cat is under the car.	The cat is above the cat.	The dog is under the truck.
+000000186484.jpg	The car is on top the cat.	The cat is beneath the car.	The cat is on top of the car.	The bird is beneath the table.
+000000473964.jpg	The backpack is under the cat.	The cat is on the backpack.	The backpack is on the cat.	The bottle is on the table.
+000000473964.jpg	The backpack is below the cat.	The cat is on top of the backpack.	The cat is below the backpack.	The book is below the laptop.
+000000527691.jpg	The couch is at the right side of the person.	The person is at the left side of the couch.	The couch is at the left side of the person.	The pen is at the left side of the book.
+000000396725.jpg	The cake is in the oven.	The oven contains the cake.	The cake is outside the oven.	The pen is in the box.
+000000446958.jpg	The cake is under the teddy bear.	The teddy bear is above the cake.	The teddy bear is under the cake.	The backpack is under the bed.
+000000446958.jpg	The cake is beneath the teddy bear.	The teddy bear is on top of the cake.	The teddy bear is beneath the cake.	The table is beneath the computer.
+000000482994.jpg	The cat is on top of the suitcase.	The suitcase is beneath the cat.	The cat is below the suitcase.	The mobile is on top of the box.
+000000252000.jpg	The fire hydrant is touching the teddy bear.	The teddy bear is touching the fire hydrant.	The teddy bear is not touching the fire hydrant.	The laptop is touching the monitor.
+000000252000.jpg	The fire hydrant is behind the teddy bear.	The teddy bear is in front of the fire hydrant.	The teddy bear is behind the fire hydrant.	The person is behind the oven.
+000000318467.jpg	The bench is above the dog.	The dog is under the bench.	The dog is above the bench.	The watch is above the computer.
+000000201925.jpg	The cake is within the oven.	The oven contains the cake.	The cake is outside the oven.	The gift is within the box.
+000000201925.jpg	The cake is inside the oven.	The oven contains the cake.	The cake is on the oven.	The cat is inside the car.
+000000041132.jpg	The backpack contains the cat.	The cat is inside the backpack.	The cat is outside the backpack.	The book is inside the drawer.
+000000286717.jpg	The bowl is at the right side of the donut.	The donut is at the left side of the bowl.	The bowl is at the left side of the donut.	The mobile is at the left side of the book.
+000000224670.jpg	The laptop is inside the train.	The train contains the laptop.	The laptop is outside the train.	The table is inside the room.
+000000419755.jpg	The person is touching the sheep.	The sheep is touching the person.	The person is away from the sheep.	The bicycle is touching the car.
+000000010714.jpg	The dining table is away from the teddy bear.	The teddy bear is away from the dining table.	The dining table is touching the teddy bear.	The person is touching the sheep.
+000000360157.jpg	The cat is in the suitcase.	The suitcase contains the cat.	The cat is away from the suitcase.	The aquarium contains the fish.
+000000520694.jpg	The bed is below the suitcase.	The suitcase is on the bed.	The bed is above the suitcase.	The table is above the box.
+000000520694.jpg	The bed is below the cat.	The cat is above the bed.	The cat is below the bed.	The table is below the book.
+000000312199.jpg	The orange is in the truck.	The truck contains the orange.	The orange is outside the truck.	The pen is in the backpack.
+000000262371.jpg	The backpack is beneath the cat.	The cat is on top of the backpack.	The cat is beneath the backpack.	The table is beneath the bowl.
+000000262371.jpg	The backpack is under the cat.	The cat is on top of the backpack.	The backpack is on top of the cat.	The table is beneath the bowl.
+000000262371.jpg	The cat is on the backpack.	The backpack is under the cat.	The cat is under the backpack.	The table is under the box.
+000000293658.jpg	The bicycle is touching the pizza.	The pizza is touching the bicycle.	The bicycle is away from the pizza.	The dog is touching the backpack.
+000000293658.jpg	The bicycle is below the pizza.	The pizza is on top of the bicycle.	The bicycle is on top of the pizza.	The table is below the screen.
+000000293658.jpg	The pizza is attached to the bicycle.	The bicycle is connected to the pizza.	The pizza is away from the bicycle.	The hook is attached to the wall.
+000000293658.jpg	The pizza is touching the bicycle.	The bicycle is touching the pizza.	The pizza is away from the bicycle.	The cat is touching the box.
+000000478981.jpg	The broccoli is on top of the pizza.	The pizza is under the broccoli.	The broccoli is under the pizza.	The table is under the pot.
+000000478981.jpg	The pizza is below the broccoli.	The broccoli is on top of the pizza.	The pizza is on top of the broccoli.	The table is below the pot.
+000000478981.jpg	The broccoli is on the pizza.	The pizza is below the broccoli.	The broccoli is below the pizza.	The toy is on the book.
+000000299601.jpg	The dining table is beneath the teddy bear.	The teddy bear is above the dining table.	The dining table is above the teddy bear.	The book is beneath the toy.
+000000299601.jpg	The kid is behind the teddy bear.	The teddy bear is in front of the kid.	The kid is in front of the teddy bear.	The box is behind the shelf.
+000000045830.jpg	The cat is on top of the suitcase.	The suitcase is beneath the cat.	The cat is beneath the suitcase.	The bottle in on top of the table.
+000000130088.jpg	The person is touching the orange.	The orange is touching the person.	The person is not touching the orange.	The cat is touching the food.
+000000211178.jpg	The bed is under the pillow.	The pillow is on the bed.	The pillow is under the bed.	The cat is on the table.
+000000347370.jpg	The person is close to the orange.	The orange is close to the person.	The person is away from the orange.	The cow is close to the bus.
+000000561411.jpg	The laptop is in front of the dog.	The dog is behind the laptop. 	The laptop is behind the dog.	The car is in front of the truck.
+000000404698.jpg	The tv is in front of the person.	The person is behind the tv.	The tv is behind the person.	The car is in front of the truck.
+000000227044.jpg	The cat is on top of the sink.	The sink is under the cat.	The cat is under the sink.	The dog is under the bed.
+000000209548.jpg	The person is beside the cake.	The cake is beside the person.	The cake is away from the person.	The cow is beside the car.
+000000057639.jpg	The cake is in front of the person.	The person is behind the cake.	The person is in front of the cake.	The car is in front of the truck.
+000000301029.jpg	The donut is touching the coffee cup.	The coffee cup is touching the donut.	The donut is far away from the coffee cup.	The person is touching the orange.
+000000245576.jpg	The keyboard is below the cat.	The cat is above the keyboard.	The cat is below the keyboard.	The car is above the dog.
+000000253290.jpg	The sandwich is on top of the dining table.	The dining table is below the sandwich.	The sandwich is below the dining table.	The book is below the laptop.
+000000192707.jpg	The laptop is inside the train.	The train contains the laptop.	The laptop is on top of the train.	The bottle is inside the backpack.
+000000076547.jpg	The train is in the station. 	The station surrounds the train.	The train is far away from the station. 	The pen is in the book.
+000000004979.jpg	The horse is on the chair	The chair is beneath the horse.	The horse is beneath the chair.	The pizza is on the oven.
+000000421457.jpg	The cat is on top of the microwave.	The microwave is under the cat.	The cat is below the microwave.	The pillow is on top of the bed.
+000000468306.jpg	The person is not touching the pizza.	The pizza is not touching the person.	The person is touching the pizza.	The cat is touching the food.
+000000191592.jpg	The umbrella is above the dining table.	The dining table is below the umbrella.	The umbrella is below the dining table.	The cat is below the car.
+000000368986.jpg	The person is not touching the donut.	The donut is not touching the person.	The person is touching the donut.	The cat is not touching the food.
+000000402170.jpg	The orange is on top of the dining table.	The dining table is below the orange.	The orange is below the dining table.	The cat is below the microwave.
+000000518273.jpg	The girl is touching the book. 	The book is touching the girl.	The girl is not touching the book. 	The donut is touching the coffee cup.
+000000154107.jpg	The apple is in the bowl.	The bowl contains the apple.	The apple is away from the bowl.	The pen is in the bag.
+000000009712.jpg	The book is beside the laptop. 	The laptop is beside the book.	The book is away from the laptop.	The cake is beside the oven.
+000000248104.jpg	The steak is inside the oven.	The oven surrounds the steak.	The steak is on top of the oven. 	The cake is inside the fridge.
+000000516636.jpg	The sink contains the cat.	The cat is inside the sink.	The cat is outside the sink.	The fridge contains the cake.
+000000423065.jpg	The umbrella is touching the orange.	The orange is touching the umbrella.	The umbrella is not touching the orange.	The pen is touching the book.
+000000333140.jpg	The black cat is beside the telephone.	The telephone is beside the black cat.	The black cat is far away from the telephone	The dog is beside the car.
+000000335581.jpg	The oven glove is touching the fridge.	The fridge is touching the oven glove.	The oven glove is on top of the fridge.	The umbrella is touching the orange.
+000000126514.jpg	The teddy bear is touching the cake.	The cake is touching the teddy bear.	The cake is on top of the teddy bear.	The orange is touching the umbrella.
+000000465143.jpg	The person is in front of the couch.	The couch is behind the person.	The couch is in front of the person.	The banana is in front of the apple.
+000000511133.jpg	The banana is inside the bowl.	The bowl contains the banana.	The banana is outside the bowl.	The sink contains the cat.
+000000156643.jpg	The cake is in front of the person.	The person is behind the cake.	The person is in front of the cake.	The car is in front of the bike.
+000000403639.jpg	The black cat is left of the keyboard.	The keyboard is right of the keyboard.	The black cat is right of the keyboard.	The red dog is right of the car.
+000000498082.jpg	The teddy bear is touching the person.	The person is touching the teddy bear.	The teddy bear is not touching the person.	The orange is touching the umbrella.
+000000182202.jpg	The cell phone is at the left side of the keyboard.	The keyboard is at the right side of the cell phone.	The cell phone is at the right side of the keyboard.	The red dog is right of the car.
+000000022462.jpg	The dog is on the couch.	The couch is under the dog.	The dog is under the couch.	The bottle is on the table.
+000000448034.jpg	The chair is under the dog.	The dog is on the chair.	The dog is below the chair.	The bottle is on the table.
+000000321223.jpg	The oven is behind the person.	The person is in front of the oven.	The person is behind the oven.	The car is in front of the bike.
+000000510103.jpg	The window is on the left side of the cake.	The cake is on the right side of the window.	The window is on the right side of the cake.	The keyboard is at the right side of the cell phone.
+000000364725.jpg	The mirror is behind the cat.	The cat is in front of the mirror.	The cat is behind the mirror.	The oven is behind the person.
+000000011696.jpg	The dog is above the laptop.	The laptop is below the dog.	The dog is below the laptop.	The cake is above the oven.
+000000204467.jpg	The person is touching the broccoli.	The broccoli is touching the person.	The person is away from the broccoli.	The orange is touching the umbrella.
+000000087813.jpg	The laptop is on the box.	The box is under the laptop. 	The laptop is under the box.	The shirt is on the chair.
+000000451489.jpg	The elephant is far from the potted plant.	The potted plant is far from the elephant.	The elephant is close to the potted plant.	The car is far from the tree.
+000000497455.jpg	The umbrella is alongside the bicycle.	The bicycle is alongside the umbrella.	The umbrella is far from the bicycle.	The pen is alongside the book.
+000000350134.jpg	The elephant is inside the truck.	The truck contains the elephant.	The elephant is far from the truck.	The rabbit is inside the house.
+000000191964.jpg	The cat is not touching the keyboard.	The keyboard is not touching the cat.	The cat is touching the keyboard.	The person is touching the broccoli.
+000000299643.jpg	The sandwich is in front of the person.	The person is behind the sandwich.	The sandwich is behind the person.	The cat is behind the laptop.
+000000092366.jpg	The truck is behind the person.	The person is in front of the truck.	The truck is in front of the person.	The cat is in front of the laptop.
+000000083508.jpg	The person is at the left side of the dining table.	The dining table is at the right side of the person.	The person is at the right side of the dining table.	The car is at the right side of the house.
+000000007730.jpg	The cat is enclosed by the suitcase.	The cat is inside the suitcase	The cat is outside the suitcase	The shirt is inside the box.
+000000500984.jpg	The mouse is beside the booklet.	The mouse is close to the booklet.	The mouse is far from the booklet.	The dog is beside the bike.
+000000335481.jpg	The car is above the cat.	The cat is below the car.	The cat is above the car.	The window is above the couch.
+000000240798.jpg	The banana is outside the bowl.	The bowl do not contain the banana.	The banana is within the bowl.	The elephant is outside the house.
+000000306569.jpg	The cup is left of the pizza.	The pizza is right of the cup.	The cup is right of the pizza.	The chair is right of the table.
+000000408705.jpg	The pizza is next to the oven.	The oven is next to the pizza.	The pizza is far from the oven.	The dog is next to the bike.
+000000355426.jpg	The pizza is on top of the stove.	The stove is below the pizza.	The stove is on top of the pizza.	The backpack is on top of the table.
+000000153639.jpg	The toppings are on the pizza.	The pizza is under the toppings.	the toppings are below the pizza.	The cat is on the bus.
+000000553735.jpg	The bus is in front of the truck.	The truck is behind the bus.	The bus is behind the truck.	The person is behind the tv.
+000000132789.jpg	The truck contains the person.	The person is inside the truck.	The person is outside the truck.	The bowl contains the banana.
+000000106513.jpg	The umbrella is on the right of the bus.	The bus is on the left of the umbrella.	The umbrella is on the left of the bus.	The chair is on the right of the table.
+000000426911.jpg	The laptop is next to the refrigerator.	The laptop is beside the refrigerator.	The laptop is not beside the refrigerator.	The pizza is beside the oven.
+000000397606.jpg	The cat is on top of the suitcase.	The suitcase is under the cat.	The cat is in the suitcase.	The bird is on top of the tree.
+000000070943.jpg	The person is not touching the elephant.	The elephant is not touching the person.	The person is touching the elephant.	The cat is touching the backpack.
+000000348816.jpg	The dog is on top of the suitcase.	The suitcase is under the dog.	The dog is under the suitcase.	The pen is under the book.
+000000410962.jpg	The broccoli is above the person.	The bowl is below the broccoli.	The broccoli is below the bowl.	The tv is above the refrigerator.
+000000207857.jpg	The cat is touching the keyboard.	The keyboard is touching the cat.	The cat is not touching the keyboard.	The person is touching the oven.
+000000416767.jpg	The person is at the left side of the dining table.	The dining table is at the right side of the person.	The person is at the right side of the dining table.	The laptop is on the right side of the tv.
+000000502604.jpg	The suitcase is at the left side of the cat.	The cat is at the right side of the suitcase.	The cat is at the left side of the suitcase.	The laptop is on the left side of the tv.
+000000379558.jpg	The bird is below the umbrella.	The umbrella is above the bird.	The umbrella is below the bird.	The tv is above the refrigerator.
+000000222463.jpg	The ladder is alongside the bed.	The bed is alongside the ladder. 	The ladder is far from the bed.	The umbrella is alongside the bicycle.
+000000448627.jpg	The cat is beside the keyboard. 	The keyboard is beside the cat.	The cat is far from the keyboard. 	The person is beside the elephant.
+000000395800.jpg	The car contains the cat.	The cat is inside the car.	The cat is outside the car.	The bowl contains the apple.
+000000014635.jpg	The tv is away from the dining table.	The dining table is away from the tv.	The tv is beside the dining table.	The person is beside the elephant.
+000000127760.jpg	The computer is next to the teddy bear.	The teddy bear is next to the computer.	The computer is far from the teddy bear.	The pizza is next to the oven.
+000000344271.jpg	The bicycle is in front of the person.	The person is behind the bicycle.	The bicycle is behind the person.	The umbrella is behind the tv.
+000000148977.jpg	The bottle is away from the teddy bear.	The teddy bear is away from the bottle.	The bottle is touching the teddy bear.	The ladder is away from the bed.
+000000123066.jpg	The banana is beside the cake.	The cake is next to the banana.	The banana is part of the cake.	The car is beside the bike.
+000000390474.jpg	The backpack is on the bed.	The bed is under the backpack.	The backpack is under the bed.	The keychain is under the laptop.
+000000391638.jpg	The oven is touching the person.	The person is touching the oven.	The person is far from the oven.	The cat is touching the suitcase.
+000000155777.jpg	The bird is above the bowl.	The bowl is below the bird.	The bird is in the bowl.	The balloon is above the building.
+000000443397.jpg	The banana is next to the bowl.	The bowl is next to the banana.	The banana is away from the bowl.	The car is next to the bike.
+000000229740.jpg	The sink is next to the cat.	The cat is next to the sink.	The cat is far from the sink.	The banana is next to the bowl.
+000000427103.jpg	The parking meter is in front of the car.	The car is behind the parking meter	The parking meter is behind the car.	The car is behind the building.
+000000316563.jpg	The car is under the cat.	The cat is on top of the car.	The car is above the cat.	The pillow is on top of the bed.
+000000432035.jpg	The pizza is on the plate.	The plate is under the pizza.	The pizza is off the plate.	The watch is on the oven.
+000000491478.jpg	The person is behind the sandwich.	The sandwich is in front of the person.	The person is behind the sandwich.	The car is behind the parking meter
+000000561635.jpg	The remote is on top of the book.	The book is under the remote.	The remote is far from the book.	The watch is on the top of the bed..
+000000148802.jpg	The truck is next to the lake.	The lake is beside the truck.	The truck is in the lake.	The banana is next to the bowl.
+000000223497.jpg	The bus is at the back of the truck.	The truck is in front of the bus.	The truck is at the back of the bus.	The cat is at the back of the car.
+000000546896.jpg	The cat is next to the teddy bear.	The teeddy bear is next to the cat.	The cat is far from the teddy bear.	The banana is next to the bowl.
+000000164883.jpg	The person is close to the tv.	The tv is close to the person.	The person is far from the tv.	The dog is close to the cat.
+000000359105.jpg	The cake is touching the person.	The person is touching the cake.	The cake is not touching the person.	The mouse is touching the cheese.
+000000447016.jpg	The hot dog is touching the person.	The person is touching the hot dog.	The person is not touching the hot dog.	The mouse is touching the cheese.
+000000151896.jpg	The umbrella is above the person.	The person is under the umbrella.	The umbrella is under the person.	The cat is under the blanket.
+000000473433.jpg	The suitcase contains the book.	The book is within the suitcase.	The suitcase do not contain the book.	The jar contains the water.
+000000354242.jpg	The cow is not facing the person.	The person is not facing the cow.	The cow is facing the person.	The cat is facing the dog.
+000000135057.jpg	The truck is below the flag.	The flag is above the truck.	The flag is below the truck.	The bed is below the table.
+000000329730.jpg	The person is to the left of the oven. 	The oven is to the right of the person.	The person is to the right of the oven. 	The book is to the right of the tv.
+000000234467.jpg	The person is outside the car.	The person is not inside the car.	The person is inside the car.	The banana is outside the bowl.
+000000060269.jpg	The banana is at the right side of the broccoli.	The broccoli is at the left side of the banana.	The banana is at the left side of the broccoli.	The car is at the right side of the tent.
+000000178407.jpg	The motor bike is beside the car. 	The car is beside the motor bike.	The motor bike is far from the bike.	The cat is beside the dining table.
+000000461114.jpg	The cake is in front of the person.	The person is behind the cake.	The cake is behind the person.	The cat is behind the mirror.
+000000430643.jpg	The person is behind the flame.	The flame is in front of the person.	The flame is behind the person.	The bear is behind the tree.
+000000558700.jpg	The laptop is on top of the bench.	The bench is under the laptop.	The laptop is under the bench.	The dog is under the truck.
+000000348288.jpg	The person is behind the teddy bear and the couch.	The teddy bear and the couch are in front of the person.	The teddy bear and the couch are behind the person.	The car is behind the bus and the truck.
+000000491502.jpg	The pizza is on top of the dining table. 	The dining table is below the pizza.	The dining table is above the pizza.	The cat is above the regrigerator.
+000000348606.jpg	The head phones are beside the book.	The book is beside the head phones.	The head phones are not beside the book.	The laptop is beside the computer.
+000000530730.jpg	The cat is on the laptop.	The laptop is under the cat.	The cat is under the laptop.	The bird is under the tree.
+000000382617.jpg	The cup is on top of the book.	The book is under the cup.	The book is on top of the cup.	The bird is on top of the tree.
+000000391074.jpg	The tomato is on top of the pizza.	The pizza is under the tomato.	The pizza is on top of the tomato.	The bird is on top of the tree.
+000000095258.jpg	The refrigerator is next to the stove.	The stove is next to the refrigerator.	The refrigerator is far from the stove.	The potted plant is next to the dog.
+000000262704.jpg	The bed is under the book.	The book is on the bed.	The bed is above the book.	The bird is on top of the tree.
+000000235591.jpg	The couch is touching the person.	The person is touching the couch..	The person is not touching the couch..	The car is touching the potted plant.
+000000238302.jpg	The cat is above the suitcase.	The suitcase is under the cat.	The suitcase contains the cat.	The orange is on the plate.
+000000050828.jpg	The suitcase is beside the bed.	The bed is beside the suitcase.	The suitcase is not beside the bed.	The head phones are beside the book.
+000000136672.jpg	The pizza is touching the person.	The person is touching the pizza.	The pizza is not touching the person.	The cow is touching the bike.
+000000234533.jpg	The cake is on top of the bicycle.	The bicycle is under the cake.	The bicycle is on top of the cake.	The cow is on top of the hill.
+000000412680.jpg	The sandwich is not touching the person.	The person is not touching the sandwich.	The sandwich is touching the person.	The bed is not touching the dining table.
+000000003474.jpg	The trolley is beneath the cat.	The cat is on the trolley.	The cat is under the trolley.	The person is under the tree.
+000000215405.jpg	The umbrella is attached to the banana.	The banana is attached to the umbrella.	The umbrella is not attached to the banana.	The laptop is attached to the table.
+000000323334.jpg	The teddy bear is facing the person.	The person is facing the teddy bear.	The teddy bear is not facing the person.	The dog is facing the elephant.
+000000316482.jpg	The donut is beside the coffee cup.	The coffee cup is next to the donut.	The donut is far from the coffee cup.	The potted plant is next the dog.
+000000501054.jpg	The dog is next to the lake.	The lake is next to the dog.	The dog is far from the lake.	The potted plant is next the car.
+000000469728.jpg	The traffic signal is behind the bicycle.	The bicycle is in front of the traffic light.	The traffic signal is in front of the bicycle.	The laptop is in front of the tv.
+000000331506.jpg	The candles are on top of the table.	The table is under the candles.	The table is above the candles.	The dog is under the tree.
+000000173324.jpg	The hot dog is touching the person.	The person is touching the hot dog.	The hot dog is not touching the person.	The bed is not touching the dining table.
+000000094566.jpg	The tail of the cat is on the keyboard. 	The keyboard is under the tail of the cat.	The tail of the cat is under the keyboard. 	The cell phone is under the dining table.
+000000087101.jpg	The bird is far away from the person.	The person is far away from the bird.	The bird is beside the person.	The car is far away from the lake.
+000000481442.jpg	The person is touching the cake and the table.	The table and cake are touching the person.	The person is far from the cake and the table.	The cat and dog are touching the suitcase.
+000000091465.jpg	The cat and the person are on top of the bed.	The bed is under the cat and the person.	The cat and the person are under the bed.	The laptop and the book are on the table.
+000000447095.jpg	The cat is near the carrot.	The carrot is near the cat.	The cat is far from the carrot.	The dog is near the person.
+000000309568.jpg	The cat and the laptop are on the bed.	The bed is under the cat and the laptop.	The bed is on top of the cat and the laptop.	The cow and the dog are under the tree.
+000000162427.jpg	The cat is touching the keyboard.	The keyboard is touching the cat.	The cat is not touching the keyboard.	The dog is touching the oven.
+000000274734.jpg	The couch is at the right side of the banana and the person.	The banana and the person are on the left side of the couch.	The banana and the person are on the right side of the couch.	The car and the bicycle are on the right side of the truck.
+000000510644.jpg	The apple is below the bird.	The bird is above the apple.	The bird is below the apple.	The kite is above the balloon.
+000000274203.jpg	The bowl is at the right side of the sandwich.	The sandwich is at the left side of the bowl.	The bowl is at the left side of the sandwich.	The river is on the left side of the hill.
+000000028251.jpg	The truck is behind the elephant.	The elephant is in front of the truck.	The elephant is inside the truck.	The sun is behind the mountain.
+000000009448.jpg	The person is under the umbrella.	The umbrella is above the person.	The umbrella is under the person.	The bird is above the kite.
+000000556462.jpg	The sandwich and the potato fries are in front of the person.	The person is behind the sandwich and the potato fries.	The person is in front of the sandwich and the potato fries.	The cat and dog are in front of the truck.
+000000503472.jpg	The couch is in front of the umbrella.	The umbrella is behind the couch.	The umbrella is in front of the couch. 	The table is in front of the person.
+000000496307.jpg	The pizza is touching the person.	The person is touching the pizza.	The pizza is not touching the person.	The elephant is touching the tree.
+000000121068.jpg	The donut is at the right side of the person.	The person is at the left side of the donut.	The donut is at the left side of the person.	The hat is on the left side of the couch.
+000000402115.jpg	The sandwich is touching the person.	The person is touching the sandwich.	The sandwich is not touching the person.	The elephant is touching the bananas.
+000000119614.jpg	The bed is at the side of the suitcase.	The bed is beside the suitcase.	The bed is not beside the suitcase.	The dog is at the side of the car.
+000000058008.jpg	The apple is behind the banana.	The banana is in front of the apple.	The banana is over the apple.	The couch is in front of the umbrella.
+000000136559.jpg	The keyboard is beneath the cat.	The cat is above the keyboard.	The cat is beneath the keyboard.	The clock is above the refrigerator.
+000000426690.jpg	The sink contains the cat.	The sink is surrounding the cat.	The sink is not surrounding the cat.	The cage contains the bird.
+000000364190.jpg	The cake is next to the bowl.	The bowl is next to the cake.	The bowl is away from the cake.	The cat is next to the car.
+000000076942.jpg	The bicycle and the person are in front of the van.	The van is behind the bicycle and the person.	The bicycle and the person are behind the van.	The table and the couch are behind the bed.
+000000098127.jpg	The apple and the orange are in front of the person.	The person is behind the apple and the orange.	The apple and the orange are behind the person.	The table and the couch are in front of the bed.
+000000084268.jpg	The person is touching the broccoli.	The broccoli is touching the person.	The broccoli is far from the person.	The apple is touching the cake.
+000000194510.jpg	The person is touching the book.	The book is touching the person.	The book is not touching the person.	The apple is touching the cake.
+000000068764.jpg	The parking meter is far away from the car.	The car is far away from the parking meter.	The parking meter is close to the car.	The cat is far away from the dog.
+000000306822.jpg	The chair is next to the laptop.	The laptop is next to the chair.	The chair is not next to the laptop.	The dog is next to the cat.
+000000570968.jpg	The person and the dog are to the right of the dining table.	The dining table is to the left of the person and the dog.	The dining table is to the right of the person and the dog.	The couch is to the right of the car and the truck.
+000000323264.jpg	The backpack is in front of the bed.	The bed is behind the backpack.	The bed is in front of the backpack.	The tree is in front of the house.
+000000226903.jpg	The person is not facing the dining table.	The person is facing away from the dining table.	The person is facing the dining table.	The dog is facing the truck.
+000000276209.jpg	The chair is beneath the horse.	The horse is above the chair.	The chair is above the horse.	The bird is above the house.
+000000294229.jpg	The person is outside the plane.	The person is not inside the plane.	The person is inside the airplane.	The bird is outside the cage.
+000000022837.jpg	The knife is beside the pizza.	The knife is at the side of the pizza.	The knife is under the pizza.	The cow is beside the cart.
+000000304456.jpg	The sports ball is next to the tv.	The tv is next to the sports ball.	The sports ball is not next to the tv.	The dog is next to the cat.
+000000249455.jpg	The person and the table are in front of the couch.	The couch is behind the person and the table.	The person and the table are at the left side of the couch.	The dog and the cat are in front of the tv.
+000000054953.jpg	The teddy bear and the cat are on the couch.	The couch is below the teddy bear and the cat.	The teddy bear and the cat are below the couch.	The dog and the cow are below the tree.
+000000552093.jpg	The person is away from the cow.	The cow is far from the person.	The person is alongside the cow.	The box is away from the table.
+000000326593.jpg	The elephant is inside the truck.	The truck contains the elephant.	The elephant is not inside the truck.	The bird is inside the cage.
+000000033717.jpg	The elephant is beneath the bird.	The bird is on top of the elephant.	The bird is far from the elephant.	The table is beneath the dog.
+000000222735.jpg	The remote is in front of the tv.	The tv is behind the remote.	The remote is behind the tv.	The elephant is in front of the house.
+000000275268.jpg	The teddy bear and the person are on the chair.	The chair is beneath the person and the teddy bear.	The teddy bear and the person are below the chair.	The car and the bike are on the truck.
+000000519738.jpg	The person is facing away from the oven.	The person is not facing the oven.	The person is facing the oven.	The car is facing the house.
+000000434893.jpg	The bottle is adjacent to the pizza.	The pizza is adjacent to the bottle.	The bottle is not adjacent to the pizza.	The car is adjacent to the truck.
+000000300284.jpg	The bicycle and the car are behind the fire hydrant.	The fire hydrant is in front of the bicycle and the car.	The bicycle and the car are in front of the fire hydrant.	The cat and the dog are in front of the truck.
+000000579917.jpg	The bananas are behind the cake.	The cake is in front of the bananas.	The bananas are in front of the cake.	The cats are in front of the couch.
+000000560332.jpg	The suitcase and the table are beside the bed.	The bed is beside the suitcase and the table.	The suitcase and the table are on the bed.	The car and the bicycle are beside the fire hydrant.
+000000417295.jpg	The bottles are in front of the person.	The person is behind the bottles.	The bottles are behind the person.	The apples are in front of the cake.
+000000276055.jpg	The carrot plant and the glass are touching the person.	The person is touching the carrot plant and the glass.	The carrot plant and the glass are not touching the person.	The cat and the dog are touching the food.
+000000564332.jpg	The person is facing the oven.	The person is facing towards the oven.	The person is facing away from the oven.	The dog is facing the refrigerator.
+000000134907.jpg	The person is on the couch.	The couch is under the person.	The person is out of the couch.	The tv is on the stand.
+000000057550.jpg	The horse is behind the person.	The horse is not in front of the person.	The horse is in front of the person.	The umbrella is behind the mirror.
+000000542205.jpg	The umbrella is far away from the bird.	The bird is far from the umbrella.	The bird is on the umbrella.	The car is far away from the road.
+000000505309.jpg	The dining table is ahead of the oven and the refrigerator.	The oven and the refrigerator are behind the dining table.	The dining table is ahead of the oven and the refrigerator.	The apple and the orange are behind the plate.
+000000507794.jpg	The person is close to the oven.	The oven is close to the person.	The person is not close to the oven.	The remote is close to the tv.
+000000548420.jpg	The boat is at the left side of the elephant and the persons.	The elephant and the persons are at the right side of the boat.	The boat is at the right side of the elephant and the persons.	The monkey and the gorilla are on the right side of the car.
+000000025411.jpg	The orange is under the apple.	The apple is in top of the orange.	The orange is on top of the apple.	The banana is on top of the bowl.
+000000116353.jpg	The pillow and the blanket are on the couch.	The couch is below the pillow and the blanket.	The pillow and the blanket are under the couch.	The printer and the laptop are on the table.
+000000250103.jpg	The person is behind the table and the plates.	The table and the plates are in front of the person.	The person is in front of the table and the plates.	The cat and the bird are behind the box.
+000000180606.jpg	The table and the pizza are in front of the person.	The person is behind the table and the pizza.	The person is in front of the table and the pizza.	The printer and the laptop are behind the monitor.
+000000508977.jpg	The cat is in front of the person and the books.	The person and the books are behind the cat.	The cat is behind the person and the books.	The cat and the bird are in front of the box.
+000000361009.jpg	The dining table and the chairs are at the back of the truck.	The truck is in front of the dining table and the chairs.	The dining table and the chairs are in front of the truck.	The printer and the laptop are behind the monitor.
+000000536321.jpg	The cat is next to the backpack.	The backpack is next to the cat.	The cat is far from the backpack.	The car is next to the shopping mall.
+000000185502.jpg	The potted plant and the persons are at the back of the bus.	The bus is in front of the potted plant and the persons.	The potted plant and the persons are in front of the bus.	The person and the books are behind the cat.
+000000467315.jpg	The person is far away from the potted plant and the dining table.	The potted plant and the dining table are far from the person.	The person is close to the potted plant and the dining table.	The cat and the dog are far from the box.
+000000522405.jpg	The cat is on top of the keyboard and the table.	The keyboard and the table are below the cat.	The cat is under the keyboard and the table.	The plate is below the banana and the apple.
+000000494785.jpg	The person and the refrigerator are behind the pizza.	The pizza is in front of the person and the refrigerator.	The person and the refrigerator are in front of the pizza.	The cat and the squirrel are behind the tree.
+000000558671.jpg	The refrigerator is right of the dog and the person.	The dog and the person are to the left of the refrigerator.	The refrigerator is left of the dog and the person.	The bus is to the left of the potted plant and the persons.
+000000469936.jpg	The pizza and the magazine are on top of the table.	The table is below the pizza and the magazine.	The pizza and the magazine are below the table.	The truck is below the dining table and the chairs.
+000000481530.jpg	The donut and the coffee mug are on the dining table.	The dining table is below the donut and the coffee mug.	The donut and the coffee mug are below the dining table.	The keyboard and the table are below the cat.
+000000569683.jpg	The bicycle is touching the fire hydrant and the pole.	The fire hydrant and the pole are touching the bicycle.	The bicycle is not touching the fire hydrant and the pole.	The person and the monkey are touching the dining table.
+000000451240.jpg	The person and the dining table are in front of the oven.	The oven is behind the person and the dining table.	The oven is in front of the person and the dining table.	The cat and the squirrel are in front of the tree.
+000000106993.jpg	The bowl is next to the hot dog and the potato fries..	The hot dog and the potato fries are next to the bowl.	The bowl is far from the hot dog and the potato fries..	The person and the monkey are next to the dining table.
+000000296205.jpg	The person and the dog are on the couch.	The couch is below the person and the dog.	The person and the dog are below the couch.	The table is below the pizza and the magazine.
+000000434930.jpg	The person is touching the donut and the dining table.	The donut and the dining table person are touching the person.	The person is not touching the donut and the dining table.	The bicycle is touching the fire hydrant and the pole.
+000000374072.jpg	The umbrella is behind the sandwich and the person.	The sandwich and the person are in front of the umbrella.	The umbrella is in front of the sandwich and the person.	The cat and the squirrel are behind the tree.
+000000153892.jpg	The person is alongside the teddy bear.	The teddy bear is next to the person.	The teddy bear is far from the person.	The bed is alongside the couch.
+000000443631.jpg	The donut and the coffee are in front of the potted plant.	The potted plant is behind the donut and the coffee.	The donut and the coffee are behind the potted plant.	The cat and the dog are in front of the box.
+000000449279.jpg	The person is behind the cake and the candles.	The cake and the candles are in front of the person.	The person is in front of the cake and the candles.	The donut and the coffee are in front of the potted plant.
+000000351380.jpg	The person is not touching the pizza and the fork.	The pizza and the fork are not touching the person.	The person is touching the pizza and the fork.	The person and the monkey are not touching the dining table.
+000000145593.jpg	The baseball glove is in front of the person.	The person is behind the baseball glove.	The person is in front of the baseball glove.	The banana is in front of the monkey.
+000000225828.jpg	The donut is touching the person.	The person is touching the donut.	The donut is not touching the person.	The bed is touching the couch.
+000000119414.jpg	The cake and the apple are on the plate. 	The plate is below the cake and the apple.	The cake and the apple are beside the plate. 	The book and the laptop are on the table.
+000000542054.jpg	The cup and the cat are above the books.	The books are below the cup and the cat.	The cup and the cat are below the books.	The person and the dog are under the tree.
+000000155245.jpg	The person is at the left side of the table and the pizza.	The table and the pizza are to the right of the person.	The person is at the right side of the table and the pizza.	The dog and the cat are to the right side of the oven.
+000000326801.jpg	The horse is touching the person and the hat.	The person and the hat are touching the horse.	The horse is not touching the person and the hat.	The monkey is touching the pizza and the fork.
+000000097800.jpg	The teddy bear and the person are behind the bird.	The bird is in front of the teddy bear and the person.	The bird is not in front of the teddy bear and the person.	The banana and the apple are in front of the monkey.
+000000028319.jpg	The plate is under the cake and the fork.	The cake and the fork are on top of the plate.	The plate is above the cake and the fork.	The crow and the parrot are on top of the tree.
+000000117094.jpg	The bananas are in front of the chairs and the potted plant.	The potted plant and the chairs are behind the bananas	The bananas are behind the chairs and the potted plant.	The person and the dog are behind the tree.
+000000401362.jpg	The potted plant is in front of the fire hydrant.	The fire hydrant is in back of the potted plant.	The potted plant is behind the fire hydrant.	The banana is in front of the monkey.
+000000476230.jpg	The two persons are below the umbrella.	The umbrella is above the two persons.	The two persons are above the umbrella.	The birds are above the plane.
+000000058443.jpg	The chair is behind the dog and the pillow.	The chair is at the back of the dog and the pillow.	The chair is in front of the dog and the pillow.	The person and the dog are at the back of the tree.
+000000501498.jpg	The black cat is on the suitcase.	The suitase is under the black cat.	The suitcase is above the black cat.	The pine tree is on the hill.
+000000067428.jpg	The horse and the person are not inside the truck.	The horse and the person are outside the truck.	The horse and the person are inside the truck.	The cat and the dog are not inside the house.
+000000058425.jpg	The bowl is above the sandwich and the plate.	The bowl is not below the sandwich and the plate.	The bowl is below the sandwich and the plate.	The bird and the kite are above the house.
+000000400571.jpg	The glass and the bottle are beside the plate.	The glass and the bottle are close to the plate.	The glass and the bottle are far from the plate.	The person and the monkey are close to the bridge.
+000000564211.jpg	The teddy bear is facing away from the person.	The teddy bear is not facing the person.	The teddy bear is facing the person.	The person is facing the tv.
+000000268227.jpg	The cat and the table are next to the bed.	The bed is next to the cat and the table.	The cat and the table are far away from the bed.	The banana and the orange are next to the knife.
+000000079172.jpg	The bananas are behind the apples and the oranges.	The bananas are not in front of the apples and the oranges.	The bananas are in front of the apples and the oranges.	The cars are behind the cats and the dogs.
+000000182339.jpg	The person is not facing the tv.	The person is facing away from the tv.	The person is facing the tv.	The monkey is facing the oven.
+000000021138.jpg	The cell phone and the lamp are next to the bed.	The cell phone and the lamp are beside the bed.	The cell phone and the lamp are far from the bed.	The chair and the table are next to the couch.
+000000041041.jpg	The pizza is on the oven.	The pizza is not below the oven.	The pizza is below the oven.	The lamp is on the table.
+000000087739.jpg	The person is next to the cow.	The person is close to the cow.	The person is far from the cow.	The cat is with the dog.
+000000253890.jpg	The bowl contains the apple and the orange.	The apple and the orange are inside the bowl.	The apple and the orange are outside the bowl.	The dog and the cat are inside the truck.
+000000139472.jpg	The person is under the umbrella.	The umbrella is above the person.	The umbrella is under the person.	The tv is above the dining table.
+000000159842.jpg	The person and the teddy bear are ahead of the chair.	The chair is behind the person and the teddy bear.	The person and the teddy bear are behind the chair.	The monkey and the gorilla are behind the car.
+000000497030.jpg	The suitcase contains the cat and the book.	The book and the cat are inside the suitcase.	The book and the cat are outside the suitcase.	The apple and the orange are inside the refrigerator.
+000000209922.jpg	The person is not touching the pizza.	The pizza is not touching the person.	The person is touching the pizza.	The monkey is not touching the banana.
+000000189880.jpg	The person and the cat are touching the couch.	The couch is touching the person and the cat.	The person and the cat are not touching the couch.	The monkey and the elephant are touching the bananas.
+000000067065.jpg	The pizza is not in the oven.	The pizza is outside the oven.	The pizza is in the oven.	The cat is in the box.
+000000042472.jpg	The person and the horse are above the potted plants.	The potted plants are below the person and the horse.	The person and the horse are below the potted plants.	The cat and the dog are above the table.
+000000571835.jpg	The cat is within the suitcase.	The suitcase contains the cat.	The cat is not within the suitcase.	The ball is within the backpack.
+000000227675.jpg	The sandwich is adjacent to the bowl.	The bowl is beside the sandwich.	The bowl is far away from the sandwich.	The car is adjacent to the tree.
+000000071136.jpg	The pizza is above the dining table.	The dining table is below the pizza.	The dining table is above the pizza.	The dog is on the tree.
+000000529012.jpg	The banana is touching the keypad and the table.	The table and the keypad are touching the banana.	The banana is far from the keypad and the table.	The pizza is touching the tv and the fridge.
+000000252617.jpg	The handbag contains the cat.	The cat is inside the handbag.	The cat is outside the handbag.	The bowl contains the strawberry.
+000000429746.jpg	The person is touching the book.	The book is touching the person.	The person is not touching the book.	The cow is touching the car.
+000000283162.jpg	The sandwich is on the wrapper.	The wrapper is below the sandwich.	The sandwich is below the wrapper.	The book is on the desk.
+000000447613.jpg	The umbrella is above the person.	The person is under the umbrella.	The umbrella is not above the person.	The kite is above the building.
+000000067339.jpg	The pizza is on the top of the dining table.	The dining table is under the pizza.	The pizza is below the dining table.	The book is on top of the desk.
+000000482002.jpg	The umbrella is above the person.	The person is below the umbrella.	The umbrella is below the person.	The kite is above the building.
+000000496379.jpg	The person is not touching the laptop.	The laptop is not touching the person.	The person is touching the laptop.	The cat is not touching the cake.
+000000549220.jpg	The skateboard is under the dog.	The dog is on the skateboard.	The skateboard is on the dog.	The cell phone is on the laptop.
+000000027750.jpg	The banana is inside the sandwich.	The sandwich contains the banana.	The banana is beside the sandwich.	The dog is inside the truck.
+000000348767.jpg	The toilet is at the left side of the cat.	The cat is at the right side of the toilet.	The toilet is at the right side of the cat.	The bicycle is at the right side of the bike.
+000000037999.jpg	The bird is on the branch of the tree.	The  branch of the tree is under the bird.	The bird is below the branch of the tree.	The cup is on the wooden table.
+000000322720.jpg	The person is close to the potted plant.	The potted plant is near the person.	The person is far away from the potted plant.	The watch is near the laptop.
+000000125597.jpg	The dining table is in front of the person.	The person is behind the dining table.	The dining table is behind the person.	The truck is in front of the bus.
+000000162156.jpg	The bed is not far from the toilet.	The toilet is near the bed.	The bed is far from the toilet.	The car is not far from the house.
+000000126826.jpg	The pizza is on top of the dining table.	The dining table is under the pizza.	The pizza is under the dining table.	The cat is on the house.
+000000408975.jpg	The couch is on top of the truck.	The truck is under the couch.	The couch is under the truck.	The dog is under the bed.
+000000089848.jpg	The cup is touching the cat.	The cat is touching the cup.	The cup is far from the cat.	The pan is touching the oven.
+000000509783.jpg	The person is far from the elephant.	The elephant is far from the person.	The person is close to the elephant.	The office is far from the restaurant.
+000000127576.jpg	The chair is under the horse.	The horse is above the chair.	The horse is under the chair.	The cat is under the bed.
+000000248238.jpg	The bowl contains the hot dog.	The hot dog is inside the bowl.	The hot dog is outside the bowl.	The act is inside the bath tub.
+000000473774.jpg	The person is behind the sandwich.	The sandwich is in front of the person.	The person is in front of the sandwich.	The dog is behind the elephant.
+000000111727.jpg	The cat is inside the sink.	The sink contains the cat.	The cat is outside the sink.	The couch is inside the truck.
+000000109265.jpg	The elephant is next to the bird.	The bird is adjacent to the elephant.	The elephant is far from the bird.	The bed is next to the wooden table.
+000000153733.jpg	The dining table is beneath the pizza.	The pizza is on top of the dining table.	The dining table is above the pizza.	The book is beneath the toy train.
+000000086922.jpg	The fan is behind the person.	The person is in front of the fan.	The person is behind the fan.	The car is behind the house.
+000000014783.jpg	The bowl contains the apples.	The apples are in the bowl.	The apples are outside the bowl.	The bottle contains the liquid.
+000000525202.jpg	The pizza is above the dining table.	The dining table is below the pizza.	The pizza is below the dining table.	The cat is above the refrigerator.
+000000022501.jpg	The oven contains the pizza.	The pizza is inside the oven.	The pizza is far from the oven.	The bottle contains the liquid.
+000000473642.jpg	The bench is in front of the train.	The train is behind the bench.	The bench is behind the train.	The person is in front of the oven.
+000000479528.jpg	The cat is away from the clock.	The clock is away from the cat.	The cat is near the clock.	The car is away from the house.
+000000382320.jpg	The truck is close to the bus.	The busis close to the truck.	The truck is far from the bus.	The oven is close to the refrigerator.
+000000522930.jpg	The cat is on the pillow.	The pillow is beneath the cat.	The pillow is on the cat.	The car is on the road.
+000000379552.jpg	The broccoli is touching the person.	The person is in contact with the broccoli .	The broccoli is not touching the person.	The rat is touching the carrots.
+000000134211.jpg	The kite is above the person.	The person is below the kite.	The kite is below the person.	The dog is below the dining table.
+000000194313.jpg	The cat is at the right side of the toilet.	The toilet is at the left side of the cat.	The cat is at the left side of the toilet.	The clock is at the left side of the laptop.
+000000539055.jpg	The person is under the umbrella.	The umbrella is above the person.	The umbrella is below the person.	The clocl is above the computer desk.
+000000033111.jpg	The chair is at the right side of the dog.	The dog is at the left side of the chair.	The chair is at the left side of the dog.	The wallet is at the left side of the bed.
+000000175263.jpg	The toilet is next to the bed.	The bed is close to the toilet.	The toilet is far from the bed.	The water bottle is next to the monitor.
+000000442252.jpg	The handbag is on the bed.	The bed is under the handbag.	The handbag is under the bed.	The car is on the road.
+000000233646.jpg	The backpack is far away from the car.	The car is not close to the handbag.	The backpack is close to the car.	The eagle is far away from the building.
+000000260248.jpg	The orange is adjacent to the sandwich.	The sandwich is next to the orange.	The orange is far from the sandwich.	The dog is next to the car.
+000000062219.jpg	Orange and lemon are inside the bowl. 	The bowl contains the orange and the lemon.	Orange and lemon are outside the bowl. 	The dog and the cat are inside the pool.
+000000425078.jpg	The person is outside the bus.	The bus do not contain the person.	The person is in the bus.	The bird is outside the cage.
+000000379226.jpg	The cat is alongside the pillow.	The pillow is close to the cat.	The cat is far from the pillow.	The toilet is close to the washing machine.
+000000510087.jpg	The person is touching the boat and the dog.	The dog and the boat are touching the person.	The person is far from the boat and the dog.	The cat and the rat are touching the cheese.
+000000070411.jpg	The suitcase do not contain the cat.	The cat is outside the suitcase.	The suitcase contains the cat.	The car is outside the garage.
+000000423141.jpg	The dining table is touching the bottle and the glass.	The glass and the bottle are touching the dining table.	The bottle and the glass are far from the dining table.	The cat and the rat are touching the cheese.
+000000227487.jpg	The dining table is touching the person.	The person is touching the dining table.	The dining table is not touching the person.	The rat is touching the cake.
+000000086399.jpg	The broccoli is very close to the bowl.	The bowl not far from the broccoli.	The bowl far from the broccoli.	The person is not far from the oven.
+000000136938.jpg	The donuts are on the tray.	The tray is below the donuts.	The donuts are under the tray.	The books are on top of the table.
+000000049037.jpg	The couch is right of the potted plant.	The potted plant is left of the couch.	The couch is left of the potted plant.	The chocolate is left of the yogurt.
+000000225713.jpg	The cat is outside the toilet.	The toilet do not contain the cat.	The cat is in the toilet.	The cow is outside the farm.
+000000208054.jpg	The teddy bears are below the umbrella.	The umbrella is above the teddy bears.	The teddy bears are above the umbrella.	The cat is above the toilet.
+000000497873.jpg	The person is on the horse.	The horse is beneath the person.	The person is far from the horse.	The dog is on the bike.
+000000092575.jpg	The teddy bear is perpendicular to the dining table.	The dining table is perpendicular to the teddy bear.	The teddy bear is parallel to the dining table.	The pole is perpendicular to the road.
+000000450193.jpg	The bed is beside the suitcase.	The suitcase is beside the bed.	The bed is far from the suitcase.	The bike is beside the truck.
+000000553862.jpg	The dining table is at the left side of the bus.	The bus is right of the dining table.	The dining table is at the right side of the bus.	The clock is at the right side of the laptop.
+000000481773.jpg	The dog is on the table.	The table is under the dog.	The table is above the dog..	The cat is on the bed.
+000000419150.jpg	The umbrella is attached to the bicycle.	The bicycle is touching the umbrella.	The umbrella is far from the bicycle.	The dog is attached to the pole.
+000000166853.jpg	The cup and the orange are next to the laptop.	The laptop is close to the orange and the cup.	The cup and the orange are away from the laptop.	The car and the bus are next to the building.
+000000297353.jpg	The person on the bed is touching the guitar.	The guitar is touching the person on the bed.	The guitar is away from the person on the bed.	The cat on the table is touchiong the oven.
+000000318114.jpg	The cake is next to the glass with orange juice.	The glass with orange juice is next to the cake.	The cake is far from the glass with orange juice.	The box with the gift is far from the scissors.
+000000514864.jpg	The surfboard is close to the person.	The person is next to the surfboard.	The person is far from the surfboard.	The dog is close to the dining table.
+000000324483.jpg	The cat is inside the travel bag..	The travel bag contains the cat.	The cat is on the travel bag..	The elephant is inside the truck.
+000000332006.jpg	The person is standing in front of the houses.	The houses are behind the standing person.	The person is standing behind the houses.	The horse is standing in front of the truck.
+000000388905.jpg	The bowl is touching the bird.	The bird is in contact with the bowl.	The bowl is far from the bird.	The laptop is touching the oven.
+000000189187.jpg	The dining table is in front of the teddy bear.	The teddy bear is behind the dining table.	The dining table is behind the teddy bear.	The cat is behind the cookie jar.
+000000004011.jpg	The person is left of the cake.	The cake is right of the person.	The person is right of the cake.	The bicycle is right of the car.
